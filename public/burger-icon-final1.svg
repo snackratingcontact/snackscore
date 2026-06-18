@@ -1,0 +1,78 @@
+<svg width="100%" viewBox="0 0 680 520" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Snackscore burger icon</title>
+  <desc>A compact burger icon with 5 colourful patties</desc>
+
+  <defs>
+    <clipPath id="candy-clip">
+      <rect x="230" y="272" width="220" height="32"/>
+    </clipPath>
+    <clipPath id="bun-clip">
+      <path d="M230,210 Q230,158 340,158 Q450,158 450,210 Z"/>
+    </clipPath>
+  </defs>
+
+  <path d="M230,210 Q230,158 340,158 Q450,158 450,210 L230,210 Z" fill="#B8742A"/>
+
+  <g clip-path="url(#bun-clip)">
+    <ellipse cx="310" cy="170" rx="6" ry="3" fill="#E8C07A" transform="rotate(-10 310 170)"/>
+    <ellipse cx="355" cy="165" rx="6" ry="3" fill="#E8C07A" transform="rotate(8 355 165)"/>
+    <ellipse cx="395" cy="172" rx="6" ry="3" fill="#E8C07A" transform="rotate(-12 395 172)"/>
+    <ellipse cx="272" cy="190" rx="6" ry="3" fill="#E8C07A" transform="rotate(15 272 190)"/>
+    <ellipse cx="330" cy="186" rx="6" ry="3" fill="#E8C07A" transform="rotate(-8 330 186)"/>
+    <ellipse cx="378" cy="188" rx="6" ry="3" fill="#E8C07A" transform="rotate(10 378 188)"/>
+    <ellipse cx="425" cy="191" rx="6" ry="3" fill="#E8C07A" transform="rotate(-6 425 191)"/>
+    <ellipse cx="295" cy="201" rx="6" ry="3" fill="#E8C07A" transform="rotate(6 295 201)"/>
+    <ellipse cx="350" cy="200" rx="6" ry="3" fill="#E8C07A" transform="rotate(-10 350 200)"/>
+    <ellipse cx="408" cy="201" rx="6" ry="3" fill="#E8C07A" transform="rotate(10 408 201)"/>
+  </g>
+
+  <rect x="230" y="210" width="220" height="32" fill="#4A90D9"/>
+  <circle cx="260" cy="226" r="5" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="295" cy="218" r="3" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="328" cy="230" r="6" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="368" cy="220" r="4" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="402" cy="228" r="5" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="435" cy="219" r="3" fill="#6BAEE8" opacity="0.6"/>
+
+  <rect x="230" y="242" width="220" height="32" fill="#A0522D"/>
+  <circle cx="255" cy="258" r="4" fill="#7B3A1E"/>
+  <circle cx="285" cy="251" r="3" fill="#7B3A1E"/>
+  <circle cx="318" cy="261" r="5" fill="#7B3A1E"/>
+  <circle cx="352" cy="252" r="3" fill="#7B3A1E"/>
+  <circle cx="385" cy="259" r="4" fill="#7B3A1E"/>
+  <circle cx="418" cy="251" r="3" fill="#7B3A1E"/>
+  <circle cx="444" cy="258" r="3" fill="#7B3A1E"/>
+
+  <rect x="230" y="274" width="220" height="32" fill="#c96f7b"/>
+  <g clip-path="url(#candy-clip)">
+    <line x1="252" y1="274" x2="240" y2="306" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="278" y1="274" x2="266" y2="306" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="304" y1="274" x2="292" y2="306" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="330" y1="274" x2="318" y2="306" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="356" y1="274" x2="344" y2="306" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="382" y1="274" x2="370" y2="306" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="408" y1="274" x2="396" y2="306" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="434" y1="274" x2="424" y2="306" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+  </g>
+
+  <rect x="230" y="306" width="220" height="32" fill="#F5C518"/>
+  <line x1="258" y1="306" x2="258" y2="338" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="286" y1="306" x2="286" y2="338" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="314" y1="306" x2="314" y2="338" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="342" y1="306" x2="342" y2="338" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="370" y1="306" x2="370" y2="338" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="398" y1="306" x2="398" y2="338" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="426" y1="306" x2="426" y2="338" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+
+  <rect x="230" y="338" width="220" height="32" fill="#3D1C02"/>
+  <rect x="251" y="347" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="274" y="347" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="297" y="347" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="320" y="347" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="343" y="347" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="366" y="347" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="389" y="347" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="412" y="347" width="17" height="17" rx="2" fill="#5C2E08"/>
+
+  <path d="M230,370 L450,370 Q450,410 340,410 Q230,410 230,370 Z" fill="#B8742A"/>
+</svg>

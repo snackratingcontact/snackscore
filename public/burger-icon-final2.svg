@@ -1,0 +1,86 @@
+<svg width="100%" viewBox="0 0 220 260" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Snackscore burger icon</title>
+  <desc>A compact burger icon with 5 colourful patties</desc>
+
+  <defs>
+    <clipPath id="candy-clip">
+      <rect x="0" y="114" width="220" height="32"/>
+    </clipPath>
+    <clipPath id="bun-clip">
+      <path d="M0,52 Q0,0 110,0 Q220,0 220,52 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Top bun -->
+  <path d="M0,52 Q0,0 110,0 Q220,0 220,52 L0,52 Z" fill="#B8742A"/>
+
+  <!-- Sesame seeds -->
+  <g clip-path="url(#bun-clip)">
+    <ellipse cx="80" cy="12" rx="6" ry="3" fill="#E8C07A" transform="rotate(-10 80 12)"/>
+    <ellipse cx="115" cy="7" rx="6" ry="3" fill="#E8C07A" transform="rotate(8 115 7)"/>
+    <ellipse cx="150" cy="13" rx="6" ry="3" fill="#E8C07A" transform="rotate(-12 150 13)"/>
+    <ellipse cx="42" cy="32" rx="6" ry="3" fill="#E8C07A" transform="rotate(15 42 32)"/>
+    <ellipse cx="88" cy="28" rx="6" ry="3" fill="#E8C07A" transform="rotate(-8 88 28)"/>
+    <ellipse cx="132" cy="28" rx="6" ry="3" fill="#E8C07A" transform="rotate(10 132 28)"/>
+    <ellipse cx="178" cy="32" rx="6" ry="3" fill="#E8C07A" transform="rotate(-6 178 32)"/>
+    <ellipse cx="62" cy="44" rx="6" ry="3" fill="#E8C07A" transform="rotate(6 62 44)"/>
+    <ellipse cx="110" cy="43" rx="6" ry="3" fill="#E8C07A" transform="rotate(-10 110 43)"/>
+    <ellipse cx="158" cy="44" rx="6" ry="3" fill="#E8C07A" transform="rotate(10 158 44)"/>
+  </g>
+
+  <!-- Patty 1: Beverages — blue -->
+  <rect x="0" y="52" width="220" height="32" fill="#4A90D9"/>
+  <circle cx="28" cy="68" r="5" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="62" cy="60" r="3" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="96" cy="72" r="6" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="136" cy="62" r="4" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="168" cy="70" r="5" fill="#6BAEE8" opacity="0.6"/>
+  <circle cx="200" cy="61" r="3" fill="#6BAEE8" opacity="0.6"/>
+
+  <!-- Patty 2: Cakes/Cookies — brun -->
+  <rect x="0" y="84" width="220" height="32" fill="#A0522D"/>
+  <circle cx="24" cy="100" r="4" fill="#7B3A1E"/>
+  <circle cx="55" cy="93" r="3" fill="#7B3A1E"/>
+  <circle cx="88" cy="103" r="5" fill="#7B3A1E"/>
+  <circle cx="122" cy="94" r="3" fill="#7B3A1E"/>
+  <circle cx="155" cy="101" r="4" fill="#7B3A1E"/>
+  <circle cx="188" cy="93" r="3" fill="#7B3A1E"/>
+  <circle cx="210" cy="100" r="3" fill="#7B3A1E"/>
+
+  <!-- Patty 3: Candy — lyserød -->
+  <rect x="0" y="116" width="220" height="32" fill="#c96f7b"/>
+  <g clip-path="url(#candy-clip)">
+    <line x1="18" y1="116" x2="6" y2="148" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="44" y1="116" x2="32" y2="148" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="70" y1="116" x2="58" y2="148" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="96" y1="116" x2="84" y2="148" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="122" y1="116" x2="110" y2="148" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="148" y1="116" x2="136" y2="148" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="174" y1="116" x2="162" y2="148" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+    <line x1="200" y1="116" x2="190" y2="148" stroke="#e08a94" stroke-width="6" opacity="0.4"/>
+  </g>
+
+  <!-- Patty 4: Chips — gul -->
+  <rect x="0" y="148" width="220" height="32" fill="#F5C518"/>
+  <line x1="26" y1="148" x2="26" y2="180" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="54" y1="148" x2="54" y2="180" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="82" y1="148" x2="82" y2="180" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="110" y1="148" x2="110" y2="180" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="138" y1="148" x2="138" y2="180" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="166" y1="148" x2="166" y2="180" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+  <line x1="194" y1="148" x2="194" y2="180" stroke="#D4A800" stroke-width="4" opacity="0.4"/>
+
+  <!-- Patty 5: Chocolate — mørk, centreret -->
+  <rect x="0" y="180" width="220" height="32" fill="#3D1C02"/>
+  <rect x="21" y="189" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="44" y="189" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="67" y="189" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="90" y="189" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="113" y="189" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="136" y="189" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="159" y="189" width="17" height="17" rx="2" fill="#5C2E08"/>
+  <rect x="182" y="189" width="17" height="17" rx="2" fill="#5C2E08"/>
+
+  <!-- Bottom bun -->
+  <path d="M0,212 L220,212 Q220,252 110,252 Q0,252 0,212 Z" fill="#B8742A"/>
+</svg>
