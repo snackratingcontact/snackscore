@@ -440,8 +440,8 @@ export default function Home() {
           )}
         </section>
 
-        {/* Top per kategori */}
-        {categoryGroups.map((group) => (
+          {/* Top per kategori */}
+          {selectedCategory === "All" && categoryGroups.map((group) => (
           <section key={group.category} className="mb-10">
             <h2 className="mb-4 flex items-center justify-between text-2xl font-bold tracking-tight">
               <div className="flex items-center gap-2">
